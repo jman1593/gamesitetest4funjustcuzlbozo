@@ -1,0 +1,23 @@
+/* Add your styling specific to the gaming website here */
+
+/* Example styling for game previews */
+.game-preview {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+}
+
+.game-preview img {
+    max-width: 100%;
+    height: auto;
+}
+
+/* Example styling for game reviews */
+.game-review {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px;
+}
+
+/* Add more styles as needed */
